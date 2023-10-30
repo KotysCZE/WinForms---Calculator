@@ -10,6 +10,8 @@ namespace Kalkulačka
     {
         public float Sum(string string_first_number, string string_second_number)
         {
+
+            //TEST
                 float first_number;
                 float second_number;
                 float result = 0;
