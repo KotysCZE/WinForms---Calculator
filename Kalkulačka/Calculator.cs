@@ -15,7 +15,7 @@ namespace Kalkulačka
                 float first_number;
                 float second_number;
                 float result = 0;
-
+            float test = 0;
             try
             {
                 first_number = float.Parse(string_first_number);
